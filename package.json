@@ -10,10 +10,12 @@
   "author": "Mohamad Mohebifar <netfars@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/visionmedia/commander.js.git"
+    "url": "https://github.com/mohebifar/truck-cli.git"
   },
   "dependencies": {
+    "colors": "^1.0.1",
     "commander": "^2.3.0",
-    "include-all": "^0.1.6"
+    "include-all": "^0.1.6",
+    "progress": "^1.1.8"
   }
 }
